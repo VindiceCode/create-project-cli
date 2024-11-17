@@ -58,7 +58,7 @@ Let's set up your development environment!
 
 ```bash
 # Clone the repository
-git clone [repository-url]
+git clone https://github.com/VindiceCode/create-project-cli
 
 # Make script executable
 chmod +x setup-project.sh
