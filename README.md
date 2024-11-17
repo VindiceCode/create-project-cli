@@ -106,7 +106,7 @@ This is a work in progress. I developed it through several iterations, fixing is
 ## Future Plans
 
 Planning to add:
-- Project templates (see [project_templates.md](project_templates.md))
+- Project templates (see [project_templates.md](project-templates.md))
 - Better error handling
 - Configuration file support
 - More development tools integration
